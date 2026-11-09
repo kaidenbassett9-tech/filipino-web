@@ -1,21 +1,39 @@
+
 # Security Policy
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The Filipino Cooking Website is a personal educational project. Security updates and fixes will be provided for the latest version of the website.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Version | Supported |
+|---------|-----------|
+| Latest  | Yes       |
+| Older versions | No |
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security issue or vulnerability in this website, please report it through GitHub by contacting the repository owner.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+When reporting an issue, please include:
+
+- A clear description of the security problem.
+- Steps to reproduce the issue.
+- Any screenshots or evidence that may help explain the problem.
+- Suggestions for fixing the issue, if possible.
+
+Please avoid publicly sharing details of security vulnerabilities until they have been reviewed.
+
+## Security Information
+
+This website is designed for educational purposes and focuses on Filipino food, recipes, and cooking instructions.
+
+- The website does not require users to create accounts.
+- The website does not collect payment information.
+- Users should avoid submitting personal or sensitive information.
+- All website content should be accessed through trusted links.
+
+## Updates
+
+The website will be reviewed and updated when necessary to improve its security, reliability, and user experience.
+
+Thank you for helping keep the Filipino Cooking Website safe!
